@@ -2,6 +2,11 @@
 ref: https://earthly.dev/blog/docker-multistage/ <br/>
 https://docs.docker.com/develop/develop-images/multistage-build/
 
+- [x] Publish 🙃
+- [ ] add some usecas3 
+- [ ] Brainstorming 🧠🤯
+- [ ] etc
+
 
 ```
 #stage-1
